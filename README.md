@@ -1,6 +1,6 @@
 # Patrones de Diseño en Java - UNIR
 
-Este repositorio contiene implementaciones en Java de algunos patrones de diseño, basados en los ejemplos proporcionados por [Refactoring.guru](https://refactoring.guru/es/design-patterns/java). El proyecto fue desarrollado como parte de la asignatura de Reutilización de Software del Máster en Ingeniería de Software y Sistemas Informáticos de la Universidad Internacional de La Rioja (UNIR).
+Este repositorio contiene implementaciones en Java de algunos patrones de diseño, basados en los ejemplos proporcionados por [Refactoring.guru](https://refactoring.guru/es/design-patterns/java). El proyecto fue desarrollado para estudiar la asignatura Reutilización de Software, de la Universidad Internacional de La Rioja (UNIR).
 
 ## Patrones Implementados
 
