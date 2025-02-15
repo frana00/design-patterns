@@ -10,6 +10,7 @@ public class Cliente {
     public Documento construirDocumento() {
         // Cambiar aquí entre HTML y JSON
         constructor = new ConstructorDocumentoHTML();  // O ConstructorDocumentoJSON
+        //constructor = new ConstructorDocumentoJSON();   // O ConstructorDocumentoJSON
         director = new Director(constructor);
 
         String cabecera = "Cabecera del documento";
